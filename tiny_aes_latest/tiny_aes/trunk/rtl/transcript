@@ -1,0 +1,6 @@
+# Reading C:/Modeltech_pe_edu_10.4a/tcl/vsim/pref.tcl
+# error: Layout::Clairvoyance can't read "map(¥)": no such element in array
+# can't read "map(¥)": no such element in array
+#     while executing
+# "Layout::Clairvoyance"
+# OpenFile C:/Users/gioul/OneDrive/¥À¿»¿³¹ÃÄ®Â/VERIFICATION/ergasia/tiny_aes_latest/tiny_aes/trunk/rtl/aes_128.v
